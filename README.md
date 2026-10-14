@@ -18,7 +18,7 @@ I work at the intersection of **analog CMOS**, **MEMS sensors**, and **integrate
 
 ## Selected Work
 
-- **IEEE MEMS 2027** (accepted) — A wafer-scale electrical resistance tomography skin for pixel-free high-resolution tactile perception.
+- **IEEE MEMS 2027** — A wafer-scale electrical resistance tomography skin for pixel-free high-resolution tactile perception.
 - **IEEE IEDM 2026** — Monolithic vertically integrated CMOS–MEMS temperature–humidity–flow sensor with pulsed time-domain multiplexed readout.
 - **IEEE NEMS 2026** — Sensitivity-enhanced MEMS–ASIC integrated thermal flow sensor; **Best Student Paper**.
 - **IEEE Internet of Things Journal** — Wireless integrated system for COPD monitoring using a high-sensitivity MEMS flow sensor.
